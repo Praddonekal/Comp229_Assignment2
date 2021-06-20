@@ -17,7 +17,7 @@ let flash = require('connect-flash');
 let mongoose = require('mongoose');
 let DB = require('./db');
 
-//point mongoose to the DB URI
+//point mongoose to the URI
 mongoose.connect(DB.URI, {useNewUrlParser: true, useUnifiedTopology: true});
 
 let mongoDB=mongoose.connection;
