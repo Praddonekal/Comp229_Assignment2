@@ -1,0 +1,21 @@
+/* css for projects page. 
+Pradyumna Donekal
+301145218
+30/05/2020*/
+.head {
+    padding: 50px;
+    text-align: center;
+    background-color:  #4d4d4d;
+    color: white;
+  }
+  
+  #obj {
+    margin-left: 10%;
+}
+p {
+  justify-content: center;
+}
+.bd-placeholder-img
+{
+ margin: auto;
+}

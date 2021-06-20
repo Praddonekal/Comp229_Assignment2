@@ -1,0 +1,20 @@
+/* css for home page. 
+Pradyumna Donekal
+301145218
+30/05/2020*/
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    border-style: solid;
+    padding: 10px;
+
+  }
+  .intro {
+    padding: 50px;
+    text-align: center;
+    background-color:  #4d4d4d;
+    color: white;
+  }
